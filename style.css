@@ -102,7 +102,7 @@ img{
 }
 
 .list li{
-    background-image: url("../HomeWork_1.1/image/liz15_green.png");
+    background-image: url("./image/liz15_green.png");
     background-repeat: no-repeat;
     background-position: 0px 0.4em;
     padding-left: 2.5em;
@@ -134,7 +134,7 @@ img{
 
 .list li:hover{
     color: rgb(19, 59, 25);
-    background-image: url("../HomeWork_1.1/image/liz15_rgb\(19\,\ 59\,\ 25\).png");
+    background-image: url("./image/liz15_darkgreen.png");
 }
 
 
